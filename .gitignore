@@ -1,0 +1,10 @@
+# not part of this design project
+.generated/
+portfolio_videos/
+releases/
+__pycache__/
+~$*
+
+# vendor CAD downloaded from MISUMI: re-download using the part numbers in BOM.xlsx
+AI concept design/standard_parts/*
+!AI concept design/standard_parts/PusherStopBackingWasher_ISO7093_M6.SLDPRT
